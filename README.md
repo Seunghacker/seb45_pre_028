@@ -8,7 +8,7 @@
 | <center>이마루한(FE)</center>                           | <center>박진주(FE)</center>                                | <center>김남구(FE)</center> | <center>최승현(FE)</center> | <center>민은영(BE)</center> | <center>김소연(BE)</center> | <center>손우진(BE)</center> |
 | ------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | <center>이미지</center>                                 |                                                            |                             |                             |                             |                             |                             |
-| <center>[깃헙id](https://github.com/pearl-sea)</center> | <center>[pearl-sea](https://github.com/pearl-sea)</center> |                             |                             |                             |                             |                             |
+| <center>[깃헙id](https://github.com/pearl-sea)</center> | <center>[pearl-sea](https://github.com/pearl-sea)</center> |                            |<center>[Seunghacker](https://github.com/Seunghacker)</center>                   |                             |                             |                             |
 
 ### Stacks
 
